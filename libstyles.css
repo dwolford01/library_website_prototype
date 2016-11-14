@@ -1,0 +1,22 @@
+body { 
+   color: ##6f6f6f;
+   background-color: #daf6f4;
+}
+h1 {  
+   color: #000000;
+   text-align: left;
+   font-family: arial;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   font-size: 140%;
+}
+h2 {
+   color: #6f6f6f;
+   text-align: left;
+   font-family: arial;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   font-size: 120%;
+}
